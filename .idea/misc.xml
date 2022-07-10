@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/bg_rounded.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/bg_search.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/ic_favorite.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/ic_live_tv.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/ic_movie.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/ic_share.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/tab_fav_color.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/tab_movie_color.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/drawable/tab_tv_color.xml" value="0.126" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/activity_detail.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/activity_main.xml" value="0.17037037037037037" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/activity_setting.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/activity_splashscreen.xml" value="0.18" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/fragment_favorite.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/fragment_favorite_film.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/fragment_film.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/list_item_film.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/list_item_film_horizontal.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/list_item_trailer.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android Java/Trailler Movie/app/src/main/res/layout/toolbar_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212d3b</color>
+    <color name="colorPrimaryDark">#161d27</color>
+    <color name="colorRating">#FBC02D</color>
+    <color name="colorAccent">#52a2f7</color>
+    <color name="colorDark">#414449</color>
+    <color name="Turtoise">#16D9E8</color>
+    <color name="blue">	#0000FF</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="navy">	#000080</color>
+</resources>
